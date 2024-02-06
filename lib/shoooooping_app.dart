@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+import 'package:shoooooping_provider_app/features/main_shoooooping_screen/presentation/shoooooping_main_screen.dart';
+
+class ShooooopingApp extends StatelessWidget {
+  const ShooooopingApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const ShooooopingMainScreen();
+  }
+}
