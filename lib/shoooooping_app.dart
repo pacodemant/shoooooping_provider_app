@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shoooooping_provider_app/features/main_shoooooping_screen/presentation/shoooooping_main_screen.dart';
+import 'package:shoooooping_provider_app/features/shoooooping_main/presentation/shoooooping_main_screen.dart';
 
 class ShooooopingApp extends StatelessWidget {
   const ShooooopingApp({super.key});
