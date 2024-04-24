@@ -1,3 +1,4 @@
+// features/shoooooping_cart/presentation/shoooooping_cart_item.dart
 import 'package:flutter/material.dart';
 
 class ShooooopingCartItem extends StatelessWidget {
